@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Mark&#39;s Blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://mark0725.github.io/"/>
+  <updated>2018-12-19T02:50:53.233Z</updated>
+  <id>http://mark0725.github.io/</id>
+  
+  <author>
+    <name>Mark</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hello-world</title>
+    <link href="http://mark0725.github.io/2018/12/19/hello-world/"/>
+    <id>http://mark0725.github.io/2018/12/19/hello-world/</id>
+    <published>2018-12-19T02:50:53.000Z</published>
+    <updated>2018-12-19T02:50:53.233Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
